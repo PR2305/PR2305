@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PR2305
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on mini projects
+- 📫 How to reach me  email me on prai93837@gmail.com
