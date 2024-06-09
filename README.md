@@ -1,5 +1,5 @@
 # Myprofile
-👋 Hey GitHub Community! I'm [Pragya Rai], a dedicated Computer Science Engineering (CSE) student with a passion for technology 
+
 
 <h2 align="left">Hi 👋! My name is PRAGYA RAI and I'm a Web Developer <br>I’m looking to collaborate on projects related to web development.</h2>
 
